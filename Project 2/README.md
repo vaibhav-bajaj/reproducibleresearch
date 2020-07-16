@@ -8,4 +8,4 @@
 - identify the weather events that are most harmful with respect to population health
 - identify the weather events that have the greatest economic consequences.
 
-#### Reproducible report can be accessed here: 
+#### Reproducible report can be accessed here: [Report](https://github.com/DeftPenk/reproducibleresearch/blob/master/Project%202/Reproducible%20Research%20Project%202.pdf)
