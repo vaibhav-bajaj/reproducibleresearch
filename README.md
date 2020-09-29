@@ -1,5 +1,5 @@
 # Reproducible Research
-Author: Aditya Vikram Dash <br />
+Author: Vaibhav Bajaj <br />
 
 ## Projects 
 Project # | Markdown | R Markdown
